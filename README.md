@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @sSage21
-- 👀 I’m interested in python and html
-- 🌱 I’m currently learning python and html
-- 📫 How to reach me idk
+
